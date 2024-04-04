@@ -1,2 +1,3 @@
 Trying to check the Code changes via Commit ID and Commit details.
-Appending contents
+
+Removed line 2
